@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuickNote</string>
+
+    <string name="button_modify_save_modify">MODIFY</string>
+    <string name="button_modify_save_save">SAVE</string>
+    <string name="button_delete">DELETE</string>
+    <string name="button_modify_save">MODIFY</string>
+    <string name="button_backup">Backup</string>
+    <string name="input_qnotes">Enter quick notes here</string>
+    <string name="button_search">Q</string>
+    <string name="prompt_hints_search">search here...</string>
+</resources>
